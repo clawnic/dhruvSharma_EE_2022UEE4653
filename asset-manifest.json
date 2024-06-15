@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dhruvSharma_EE_2022UEE4653/static/css/main.f2342d62.css",
+    "main.js": "/dhruvSharma_EE_2022UEE4653/static/js/main.f1742be2.js",
+    "static/js/453.9d7d148b.chunk.js": "/dhruvSharma_EE_2022UEE4653/static/js/453.9d7d148b.chunk.js",
+    "static/media/img2.jpg": "/dhruvSharma_EE_2022UEE4653/static/media/img2.5be120918d65e8df6f17.jpg",
+    "static/media/img3.jpg": "/dhruvSharma_EE_2022UEE4653/static/media/img3.bfc235bf656b73fea077.jpg",
+    "static/media/img6.png": "/dhruvSharma_EE_2022UEE4653/static/media/img6.1a303bb4aaab13d78983.png",
+    "static/media/img1.jpg": "/dhruvSharma_EE_2022UEE4653/static/media/img1.bf5f87a2beb17558b8da.jpg",
+    "static/media/img5.jpg": "/dhruvSharma_EE_2022UEE4653/static/media/img5.2b94117d0ecf7afa9180.jpg",
+    "static/media/img4.jpg": "/dhruvSharma_EE_2022UEE4653/static/media/img4.61df12a0ce8abd407c61.jpg",
+    "index.html": "/dhruvSharma_EE_2022UEE4653/index.html",
+    "main.f2342d62.css.map": "/dhruvSharma_EE_2022UEE4653/static/css/main.f2342d62.css.map",
+    "main.f1742be2.js.map": "/dhruvSharma_EE_2022UEE4653/static/js/main.f1742be2.js.map",
+    "453.9d7d148b.chunk.js.map": "/dhruvSharma_EE_2022UEE4653/static/js/453.9d7d148b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2342d62.css",
+    "static/js/main.f1742be2.js"
+  ]
+}
